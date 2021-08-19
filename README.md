@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a electrical engineering student at University Center of FEI. There, I am a member of the university robotics team, RoboFEI. I am also a hobby programmer on my free time.
+
+![Bollos00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bollos00&theme=radical&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bollos00&layout=compact&custom_title=Bollos00's%20Most%20Used%20Languages&count_private=true)](https://github.com/Bollos00)
+
 <!--
 **Bollos00/Bollos00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
