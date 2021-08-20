@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![Profile views counter](https://komarev.com/ghpvc/?username=Bollos00&&style=flat-square)  
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
+</div>
+
 I am a electrical engineering student at University Center of FEI. There, I am a member of the university robotics team, RoboFEI. I am also a hobby programmer on my free time.
 
 <!-- theme: title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877 -->
@@ -14,18 +24,3 @@ I am a electrical engineering student at University Center of FEI. There, I am a
 [![language-spice](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=language-spice&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/language-spice)
  -->
 
-
-<!--
-**Bollos00/Bollos00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
