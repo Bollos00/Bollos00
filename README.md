@@ -17,5 +17,7 @@ I am a electrical engineering student at University Center of FEI. There, I am a
 
 [![LibreMines](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=LibreMines&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/LibreMines)
 [![QtMessageFilter](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=QtMessageFilter&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/QtMessageFilter)
+[![language-spice-atom](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=language-spice-atom&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/language-spice-atom)
+[![JigsawGenerator](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=JigsawGenerator&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/JigsawGenerator)
 
 See more on [Gitlab](https://gitlab.com/Bollos00).
