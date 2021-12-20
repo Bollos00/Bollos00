@@ -36,13 +36,13 @@ I am a electrical engineering student at University Center of FEI. There, I am a
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Bollos00&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-### My top Repositories
+<!-- ### My top Repositories
 
 [![LibreMines](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=LibreMines&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/LibreMines)
 [![QtMessageFilter](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=QtMessageFilter&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/QtMessageFilter)
 [![language-spice-atom](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=language-spice-atom&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/language-spice-atom)
 [![JigsawGenerator](https://github-readme-stats.vercel.app/api/pin/?username=Bollos00&repo=JigsawGenerator&title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877)](https://github.com/Bollos00/JigsawGenerator)
-
+ -->
 More on [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Bollos00)
 
 
