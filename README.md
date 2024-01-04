@@ -1,32 +1,18 @@
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=Bollos00&&style=flat-square)  
 
-I am a Brazilian electrical engineering graduated University Center of FEI. There, I worked as a software developer of the university robotics team, RoboFEI, for almost 4 years.
+Bachelor in Electrical Engineering, with emphasis in Telecommunications, from the University Center of FEI. Worked with robotics and software development for 4 years in the RoboFEI project, where participated in 5 competitions and performed Scientific Initiation about Machine Learning. At the end of the course, developed a thesis project in the railway scope and obtained the highest grade. Currently works at Alstom with software development in the railway signaling sector.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bollos00/)
 
 [![cv_pt](https://img.shields.io/badge/leia_meu_curriculo-%23FF0000.svg?style=for-the-badge&&logoColor=white)](https://github.com/Bollos00/MyCvWithAltaCV/raw/main/cv_pt.pdf)
 [![cv_en](https://img.shields.io/badge/read_my_resume-%23FF0000.svg?style=for-the-badge&&logoColor=white)](https://github.com/Bollos00/MyCvWithAltaCV/raw/main/cv_en.pdf)
 
-
-### What I know fairly well
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-### What I am currently learning but already now a little
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgre](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 <!-- theme: title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877 -->
 
