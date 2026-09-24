@@ -6,8 +6,6 @@
 -->
 ![Profile views counter](https://komarev.com/ghpvc/?username=Bollos00&&style=flat-square)  
 
-Bachelor in Electrical Engineering, with emphasis in Telecommunications, from the University Center of FEI. Worked with robotics and software development for 4 years in the RoboFEI project, where participated in 5 competitions and performed Undergraduate Research about Machine Learning. At the end of the course, developed a Undergraduate Thesis project in the railway scope and obtained the highest grade. Currently works at Alstom delivering software solutions for railway control and supervision systems.
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bollos00/)
 
 [![cv_en](https://img.shields.io/badge/read_my_resume_(en)-%23FF0000.svg?style=for-the-badge&&logoColor=white)](https://bollos00.github.io/MyCvWithRenderCv/Bruno_Bollos_Correa-en_CV.pdf)
