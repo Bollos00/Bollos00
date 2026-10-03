@@ -7,9 +7,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Bollos00&&style=flat-square)  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bollos00/)
-
-[![cv_en](https://img.shields.io/badge/read_my_resume_(en)-%23FF0000.svg?style=for-the-badge&&logoColor=white)](https://bollos00.github.io/MyCvWithRenderCv/cv/Bruno_Bollos_Correa-en_CV.pdf)
-[![cv_pt](https://img.shields.io/badge/leia_meu_currículo_(pt)-%23FF0000.svg?style=for-the-badge&&logoColor=white)](https://bollos00.github.io/MyCvWithRenderCv/cv/Bruno_Bollos_Correa-pt_CV.pdf)
+[![cv_en](https://img.shields.io/badge/read_my_resume-%23FF0000.svg?style=for-the-badge&&logoColor=white)](https://bollos00.github.io/MyCvWithRenderCv/cv/Bruno_Bollos_Correa(general)-en_CV.pdf)
 
 
 <!-- theme: title_color=63f995&text_color=ffffff&icon_color=f4fc11&bg_color=0c0877 -->
